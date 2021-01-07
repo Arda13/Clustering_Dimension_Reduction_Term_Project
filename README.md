@@ -2664,8 +2664,7 @@ plt.show()
         * DBSCAN Clustering
         * Mean-shift Clustering
 
-![2021-01-06_23-38-57.png](attachment:2021-01-06_23-38-57.png)
-
+![2021-01-06_23-38-57](https://user-images.githubusercontent.com/31143459/103957592-1a98e180-515c-11eb-9387-6f2c272851ec.png)
 
 ```python
 from sklearn.cluster import KMeans
